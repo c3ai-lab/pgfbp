@@ -1,0 +1,8 @@
+[submodule "android_client"]
+	path = android_client
+	url = git@github.com:itsc-flensburg/android_client.git
+	branch = dev
+[submodule "key_handler"]
+	path = key_handler
+	url = git@github.com:itsc-flensburg/key_handler.git
+	branch = dev
