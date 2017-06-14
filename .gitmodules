@@ -1,0 +1,3 @@
+[submodule "android_client"]
+	path = android_client
+	url = git@github.com:itsc-flensburg/android_client.git
