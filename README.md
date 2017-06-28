@@ -47,7 +47,7 @@ Instructions for building the library can be found in the [todo].
 
 ### Disclaimer
 
-PGP is at most alpha-quality software and serves the sole purpose of a proof of concept. Implementations may not be correct or secure. Backward API compatibility with early versions may not necessarily be maintained. Use at your own risk.
+PGfbP is at most alpha-quality software and serves the sole purpose of a proof of concept. Implementations may not be correct or secure. Backward API compatibility with early versions may not necessarily be maintained. Use at your own risk.
 
 **Privacy Warning:** This site tracks visitor information.
 
